@@ -3,5 +3,18 @@
   "client": "si seras puta e",
   "year": 2025,
   "description": "crack",
-  "gallery": []
+  "gallery": [
+    {
+      "type": "image",
+      "src": "/Users/ignaciomac/Dropbox/AgnesQuestionMark/render/Inside_040925_v01.v01/Inside_040925_v01.0190.jpg",
+      "poster": "",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "/Users/ignaciomac/Dropbox/AgnesQuestionMark/render/Inside_040925_v01.v01/Inside_040925_v01.0001.jpg",
+      "poster": "",
+      "alt": ""
+    }
+  ]
 }
