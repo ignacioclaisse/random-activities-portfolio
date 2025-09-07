@@ -3,5 +3,6 @@
   "client": "THIS IS A TEST",
   "year": 2025,
   "description": "YES",
-  "gallery": []
+  "gallery": [],
+  "order": 2
 }
