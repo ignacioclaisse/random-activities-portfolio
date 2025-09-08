@@ -3,6 +3,31 @@
   "client": "this is a test1",
   "year": 2025,
   "description": "no and yes",
-  "gallery": [],
+  "gallery": [
+    {
+      "type": "image",
+      "src": "/media/1757345279625-syringedesignv01.png",
+      "poster": "",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "/media/1757345287617-syringedesignv02.png",
+      "poster": "",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "",
+      "poster": "",
+      "alt": ""
+    },
+    {
+      "type": "image",
+      "src": "",
+      "poster": "",
+      "alt": ""
+    }
+  ],
   "order": 1
 }
