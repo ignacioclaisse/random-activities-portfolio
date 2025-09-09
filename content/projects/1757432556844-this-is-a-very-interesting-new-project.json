@@ -1,0 +1,20 @@
+{
+  "title": "THIS IS A VERY INTERESTING NEW PROJECT",
+  "client": "YAMBO",
+  "year": 2025,
+  "description": "YES this is very interesting ",
+  "gallery": [
+    {
+      "type": "video",
+      "src": "https://rqyk4xkrzdy74wcv.public.blob.vercel-storage.com/portfolio/1757432493425-cellularcreation_010925_v01.mp4",
+      "poster": "",
+      "alt": ""
+    },
+    {
+      "type": "video",
+      "src": "https://rqyk4xkrzdy74wcv.public.blob.vercel-storage.com/portfolio/1757432550093-11.mp4",
+      "poster": "",
+      "alt": ""
+    }
+  ]
+}
